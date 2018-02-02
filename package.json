@@ -1,0 +1,8 @@
+{
+  "name": "ur-nodejs-client-example",
+  "version": "1.0.0",
+  "description": "Send command or program to an Universal Robot via socket",
+  "main": "index.js",
+  "author": "ykcznn",
+  "license": "MIT"
+}
