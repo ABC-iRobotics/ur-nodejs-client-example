@@ -22,10 +22,10 @@ Install Node.js.
 2. Run the `npm i` command in the cloned repository folder
 
 ## Configuration
-1. Set your Universal Robot IP address in the 'client.connect' line.
+1. Set your Universal Robot IP address in the `client.connect` line.
 
 ## Example usage
-Open a terminal and run: 'node index.js' in the cloned repository folder.
+Open a terminal and run: `node index.js` in the cloned repository folder.
 
 ## Acknowledgement
 We acknowledge the financial support of this work by the Hungarian State and the European Union under the  EFOP-3.6.1-16-2016-00010 project.
