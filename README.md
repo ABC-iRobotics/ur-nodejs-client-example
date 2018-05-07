@@ -18,10 +18,11 @@ THE SOFTWARE IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY 
 Install Node.js.
 
 ## Installation
-Clone the repository.
+1. Clone the repository.
+2. Run the `npm i` command in the cloned repository folder
 
 ## Configuration
-Set your Universal Robot IP address in the 'client.connect' line.
+1. Set your Universal Robot IP address in the 'client.connect' line.
 
 ## Example usage
 Open a terminal and run: 'node index.js' in the cloned repository folder.
